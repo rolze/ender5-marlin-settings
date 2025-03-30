@@ -4,13 +4,6 @@ Ender-5 firmware upgrade with Marlin 2.0.x
 
 Big kudos to [Perplexity](https://www.perplexity.ai/) being my companion in the whole process.
 
-## spec
-
-Creality v1.1.4 board with ATmega328P
-
-![image](my-creality-board.jpg)
-(c) taken from [here](https://youtu.be/2SZXXBCVhMk?si=gMbYtFAglsl8-R_h&t=475), thx dude!
-
 ## helpful links
 
 Small link collection that helped me in installing a boatloader on my Ender-5 and upgrading the firmware.
@@ -35,5 +28,17 @@ Small link collection that helped me in installing a boatloader on my Ender-5 an
 * https://www.amazon.de/dp/B01EV70C78 (ELEGOO Jumper Wire 40x 20cm, Male-Female, Kabel Steckbrücken 28AWG Drahtbrücken für Arduino (3er Set))
 * Raspberry 4 Model B
 * obviously an Ender-5 without a boatloader
+
+## my spec
+
+Creality v1.1.4 board with ATmega328P.
+
+![image1](creality-board-spi.jpg)
+
+*(c) taken from [here](https://youtu.be/2SZXXBCVhMk?si=gMbYtFAglsl8-R_h&t=475), thx dude!*
+
+![image2](creality-board-version-chip.jpg)
+
+*my ender-5 board*
 
 Cheers!
