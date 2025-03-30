@@ -6,7 +6,7 @@ Big kudos to [Perplexity](https://www.perplexity.ai/) being my companion in the 
 
 ## helpful links
 
-Small link collection that helped me in installing a boatloader on my Ender-5 and upgrading the firmware.
+Small link collection that helped me in installing a bootloader on my Ender-5 and upgrading the firmware.
 
 * https://github.com/MarlinFirmware/Configurations/tree/bugfix-2.0.x/config/examples/Creality/Ender-5/CrealityV1 (config files for my Crealitiy Ender-5)
 * https://gauravsohoni.wordpress.com/2020/08/25/ender-3-pro-firmware-upgrade-using-raspberry-pi/
@@ -16,7 +16,7 @@ Small link collection that helped me in installing a boatloader on my Ender-5 an
 
 * https://github.com/MarlinFirmware/Marlin/tree/2.0.x
 * https://www.arduino.cc/en/software/ (Legacy IDE (1.8.X))
-* https://github.com/Optiboot/optiboot (did not work for me, used the boatloader that comes with Marlin out-of-the-box)
+* https://github.com/Optiboot/optiboot (did not work for me, used the bootloader that comes with Marlin out-of-the-box)
 
 ## videos to watch
 
@@ -27,7 +27,7 @@ Small link collection that helped me in installing a boatloader on my Ender-5 an
 
 * https://www.amazon.de/dp/B01EV70C78 (ELEGOO Jumper Wire 40x 20cm, Male-Female, Kabel Steckbrücken 28AWG Drahtbrücken für Arduino (3er Set))
 * Raspberry 4 Model B
-* obviously an Ender-5 without a boatloader
+* obviously an Ender-5 without a bootloader
 
 ## my spec
 
