@@ -23,7 +23,7 @@ Small link collection that helped me in installing a boatloader on my Ender-5 an
 
 * https://github.com/MarlinFirmware/Marlin/tree/2.0.x
 * https://www.arduino.cc/en/software/ (Legacy IDE (1.8.X))
-* https://github.com/Optiboot/optiboot (did not work for me, used to boatloader that comes with Marlin out-of-the-box)
+* https://github.com/Optiboot/optiboot (did not work for me, used the boatloader that comes with Marlin out-of-the-box)
 
 ## videos to watch
 
