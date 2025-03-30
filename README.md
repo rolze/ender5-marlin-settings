@@ -31,7 +31,7 @@ Small link collection that helped me in installing a bootloader on my Ender-5 an
 
 ## my spec
 
-Creality v1.1.4 board with ATmega328P.
+Creality v1.1.4 board with ATmega1284P.
 
 ![image1](creality-board-spi.jpg)
 
